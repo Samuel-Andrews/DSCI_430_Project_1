@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://coviddata.github.io/coviddata/
+HostUrl=https://coviddata.github.io/coviddata/v1/countries/cases.csv
